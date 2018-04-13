@@ -1,0 +1,12 @@
+Source: ros-kinetic-pr2-ethercat-drivers
+Section: misc
+Priority: extra
+Maintainer: David Feil-Seifer <dave@cse.unr.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://ros.org/wiki/pr2_ethercat_drivers
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-pr2-ethercat-drivers
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-ethercat-hardware, ros-kinetic-fingertip-pressure
+Description: This stack contains drivers for the ethercat system and the peripherals that connect to it: motor control boards, fingertip sensors, texture projector, hand accelerometer.
