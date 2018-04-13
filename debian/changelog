@@ -1,0 +1,42 @@
+ros-kinetic-pr2-ethercat-drivers (1.8.18-1jessie) jessie; urgency=high
+
+  * updated maintainer
+  * Contributors: David Feil-Seifer
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Thu, 12 Apr 2018 07:00:00 -0000
+
+ros-kinetic-pr2-ethercat-drivers (1.8.17-1jessie) jessie; urgency=high
+
+  * Merge pull request #70 <https://github.com/PR2/pr2_ethercat_drivers/issues/70> from k-okada/orp
+    change maintainer to ROS orphaned package maintainer
+  * change maintainer to ROS orphaned package maintainer
+  * Contributors: Kei Okada
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Wed, 14 Feb 2018 08:00:00 -0000
+
+ros-kinetic-pr2-ethercat-drivers (1.8.15-1jessie) jessie; urgency=high
+
+
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Fri, 19 Jun 2015 07:00:00 -0000
+
+ros-kinetic-pr2-ethercat-drivers (1.8.12-1jessie) jessie; urgency=high
+
+  * Changed maintainership, creation of Indigo devel branch
+  * Contributors: TheDash
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Wed, 11 Feb 2015 08:00:00 -0000
+
+ros-kinetic-pr2-ethercat-drivers (1.8.11-1jessie) jessie; urgency=high
+
+
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Tue, 30 Sep 2014 07:00:00 -0000
+
+ros-kinetic-pr2-ethercat-drivers (1.8.9-1jessie) jessie; urgency=high
+
+
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Mon, 29 Sep 2014 07:00:00 -0000
+
+
