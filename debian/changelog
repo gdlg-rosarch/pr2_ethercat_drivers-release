@@ -1,0 +1,49 @@
+ros-kinetic-ethercat-hardware (1.8.18-1jessie) jessie; urgency=high
+
+  * updated maintainer
+  * fixed compile error
+  * Contributors: David Feil-Seifer
+  * fixed compile error
+  * Contributors: David Feil-Seifer
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Thu, 12 Apr 2018 07:00:00 -0000
+
+ros-kinetic-ethercat-hardware (1.8.17-1jessie) jessie; urgency=high
+
+  * Merge pull request #69 <https://github.com/PR2/pr2_ethercat_drivers/issues/69> from goretkin/patch-1
+    removed lingering hard-coded constant
+  * Merge pull request #70 <https://github.com/PR2/pr2_ethercat_drivers/issues/70> from k-okada/orp
+    change maintainer to ROS orphaned package maintainer
+  * change maintainer to ROS orphaned package maintainer
+  * removed lingering constant
+    MAX_FT_SAMPLES is currently set to 4, so this doesn't affect the behavior.
+  * Contributors: Gustavo Goretkin, Kei Okada
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Wed, 14 Feb 2018 08:00:00 -0000
+
+ros-kinetic-ethercat-hardware (1.8.15-1jessie) jessie; urgency=high
+
+  * Added install rules
+  * Contributors: TheDash
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Fri, 19 Jun 2015 07:00:00 -0000
+
+ros-kinetic-ethercat-hardware (1.8.12-1jessie) jessie; urgency=high
+
+
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Wed, 11 Feb 2015 08:00:00 -0000
+
+ros-kinetic-ethercat-hardware (1.8.11-1jessie) jessie; urgency=high
+
+
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Tue, 30 Sep 2014 07:00:00 -0000
+
+ros-kinetic-ethercat-hardware (1.8.9-1jessie) jessie; urgency=high
+
+
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Mon, 29 Sep 2014 07:00:00 -0000
+
+
