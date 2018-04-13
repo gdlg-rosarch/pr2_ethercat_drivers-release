@@ -1,3 +1,30 @@
+## pr2_ethercat_drivers (kinetic) - 1.8.18-0
+
+The packages in the `pr2_ethercat_drivers` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release pr2_ethercat_drivers --track kinetic --rosdistro kinetic --edit` on `Fri, 13 Apr 2018 16:52:21 -0000`
+
+The `fingertip_pressure` package was released.
+
+These packages were explicitly ignored:
+- `ethercat_hardware`
+- `pr2_ethercat_drivers`
+
+Version of package(s) in repository `pr2_ethercat_drivers`:
+
+- upstream repository: https://github.com/PR2-prime/pr2_ethercat_drivers.git
+- release repository: https://github.com/pr2-gbp/pr2_ethercat_drivers-release.git
+- rosdistro version: `1.8.17-0`
+- old version: `1.8.17-0`
+- new version: `1.8.18-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.1`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## pr2_ethercat_drivers (kinetic) - 1.8.17-0
 
 The packages in the `pr2_ethercat_drivers` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release pr2_ethercat_drivers --rosdistro kinetic --track kinetic` on `Wed, 14 Feb 2018 11:47:16 -0000`
